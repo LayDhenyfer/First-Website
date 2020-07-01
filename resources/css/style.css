@@ -146,47 +146,46 @@ a:active {
 }
 
 /* ----- BUTTONS ----- */
-.btn:link,
-.btn:visited,
+.bnt:link,
+.bnt:visited,
 input[type=submit] {
     display: inline-block;
     padding: 10px 30px;
     font-weight: 300;
     text-decoration: none;
     border-radius: 200px;
-    -webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
     transition: background-color 0.2s, border 0.2s, color 0.2s;
 }
 
-.btn-full:link,
-.btn-full:visited,
+.bnt-full:link,
+.bnt-full:visited,
 input[type=submit] {
     background-color: #e67e22;
     border: 1px solid #e67e22;
-    color: #fff;
+    color: #ffffff;
     margin-right: 15px;
 }
 
-.btn-ghost:link,
-.btn-ghost:visited {
+.bnt-ghost:link,
+.bnt-ghost:link {
     border: 1px solid #e67e22;
     color: #e67e22;
 }
 
-.btn:hover,
-.btn:active,
+.bnt:hover,
+.bnt:active,
 input[type=submit]:hover,
 input[type=submit]:active {
     background-color: #cf6d17;
 }
 
-.btn-full:hover,
-.btn-full:active {
+.bnt-full:hover,
+.bnt-full:active {
     border: 1px solid #cf6d17;
 }
 
-.btn-ghost:hover,
-.btn-ghost:active {
+.bnt-ghost:hover,
+.bnt-ghost:active {
     border: 1px solid #cf6d17;
     color: #fff;
 }
