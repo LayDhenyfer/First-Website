@@ -146,8 +146,10 @@ a:active {
 }
 
 /* ----- BUTTONS ----- */
-.bnt:link,
-.bnt:visited,
+.bnt-full:link,
+.bntfull:visited,
+.bnt-ghost:visited,
+.bnt-ghost:link,
 input[type=submit] {
     display: inline-block;
     padding: 10px 30px;
