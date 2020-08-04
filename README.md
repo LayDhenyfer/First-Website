@@ -1,5 +1,5 @@
 # First-Website
-first pag
+Um site sobre comidas feito no curso da udemy 
 <img src="https://www.thecreativedonut.com/wp-content/uploads/2017/02/MBP_pure-front-min-11.png">
 
 Para visualizar a pag acesse https://laydhenyfer.github.io/First-Website/
